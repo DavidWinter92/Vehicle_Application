@@ -62,17 +62,19 @@ This process repeats until all vehicles in the array have been iterrated through
 
 ## Example Input Output
 
-Vehicle [make = Toyota, model = Corolla, year = 2020], Car [numberOfDoors= 4]
-Vehicle [make = KIA, model = Super, year = 2023], Car [numberOfDoors= 2]
-Vehicle [make = Ford, model = F-300, year = 2024], Truck [weightCapacity=3.0 tons]
-Vehicle [make = Toyota, model = Tundra, year = 2024], Truck [weightCapacity=2.0 tons]
-Vehicle [make = Mustang, model = 1967 Shelby GT 500 Eleanor Series (Best car ever made, big bias), year = 1967], Car [numberOfDoors= 2]
+Vehicle [make = Toyota, model = Corolla, year = 2020], Car [numberOfDoors= 4]  
+Vehicle [make = KIA, model = Super, year = 2023], Car [numberOfDoors= 2]  
+Vehicle [make = Ford, model = F-300, year = 2024], Truck [weightCapacity=3.0 tons]  
+Vehicle [make = Toyota, model = Tundra, year = 2024], Truck [weightCapacity=2.0 tons]  
+Vehicle [make = Mustang, model = 1967 Shelby GT 500 Eleanor Series (Best car ever made, big bias), year = 1967], Car [numberOfDoors= 2]  
 
-Car being discussed: Toyota Corolla
-How many miles have you traveled in this vehicle?: 5
-How many gallons did it take you?: 5
-your car fuel efficiency is: 1.0 mpg
-Would you like your vehicle turned 'on' or 'off'?
-on
-Vehicle state changed to: on
-Your Corolla is now  turned on
+
+
+Car being discussed: Toyota Corolla  
+How many miles have you traveled in this vehicle?: 5  
+How many gallons did it take you?: 5  
+your car fuel efficiency is: 1.0 mpg  
+Would you like your vehicle turned 'on' or 'off'?  
+on  
+Vehicle state changed to: on  
+Your Corolla is now  turned on  
