@@ -23,7 +23,7 @@ public class Car extends Vehicle {
     @Override
     public double calculateFuelEfficiency(double distance, double fuelUsed) {
         double efficiency = super.calculateFuelEfficiency(distance, fuelUsed);
-        System.out.println("your car fuel efficiency is: " + efficiency + " mph");
+        System.out.println("your car fuel efficiency is: " + efficiency + " mpg");
         return efficiency;
     }
 

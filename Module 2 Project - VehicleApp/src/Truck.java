@@ -24,7 +24,7 @@ public class Truck extends Vehicle {
     @Override
     public double calculateFuelEfficiency(double distance, double fuelUsed) {
         double efficiency = super.calculateFuelEfficiency(distance, fuelUsed);
-        System.out.println("Your truck fuel efficiency is: " + efficiency + " mph");
+        System.out.println("Your truck fuel efficiency is: " + efficiency + " mpg");
         return efficiency;
     }
 
